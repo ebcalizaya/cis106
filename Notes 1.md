@@ -1,0 +1,6 @@
+## What is markdown?
+Markdown is a simple markup language used to format plain text. It was created by John Gruber in 2004. The focus of Markdown is on content, so users don't have to worry about  HTML tgas . It is considered future proof because it works with plain text instead of proprietary formats. Markdown flies use the extensions .md or .markdown. There are different versions of Markdown, including CommonMark, GitHub Flavored Markdown (GFM),and MultiMarkdown
+## What is Linux?
+Linux is an operating system like Windows,ios, and Mac OS. Android is also based on Linux. An OS manages hardware and software communication, allowing programs to function. Without an OS, software wouldn't work.
+## What is Ubuntu?
+Ubuntu is a Linux operating system based on Debian and mostly made of free, open source software. It comes in three versions Desktop Server, and Core. It can run on a computer or in a virtual machine. Ubuntu is also used for cloud computing with OpenStack support. Since version 17.10, it's default desktop has been GNOME
