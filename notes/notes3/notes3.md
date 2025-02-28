@@ -108,7 +108,7 @@ A set of tools for managing debian packages
 Snaps are app packages for desktop, cloud and IoT
 that are easy to install, cross platform and dependency free
 ### Usage
-`sudo` (if needed) + `snap` + `acion` + `package name`
+`sudo` (if needed) + `snap` + `acton` + `package name`
 ### Examples
 * Find a snap
   * `snap search "video player"`
